@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>appBG.jpeg</file>
+        <file>mute.png</file>
+        <file>speaker.png</file>
+        <file>like.png</file>
+        <file>bg_4.png</file>
+        <file>Sugar.png</file>
+        <file>Baking Soda.png</file>
+        <file>Methane.png</file>
+        <file>Salt.png</file>
+        <file>Acetone.png</file>
+        <file>Bleach.png</file>
+        <file>bg_3.png</file>
+        <file>Water.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>bgMusic.mp3</file>
+    </qresource>
+</RCC>
